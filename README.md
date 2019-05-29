@@ -1,2 +1,2 @@
 # idyoudo-github-repository
-放开那个github项目，让我来保护她
+放开那个github，让我来保护她
