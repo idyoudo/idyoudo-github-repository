@@ -15,3 +15,7 @@
 ### Flink专栏
 - [FlinkProj](https://github.com/xuwei517/FlinkProj)
 - [FlinkExample](https://github.com/xuwei517/FlinkExample)
+
+### IT有味
+- [网文的作者们为了写书能有多拼](https://www.zhihu.com/question/321561767/answer/666217488)
+- [如何提高技术写作能力](https://www.zhihu.com/question/21853187/answer/26499593)
