@@ -1,5 +1,5 @@
 # idyoudo-github-repository
-放开那个github，让我来！！！
+放开那个’她‘，让我来！！！
 
 ### spring boot专栏
 - [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
