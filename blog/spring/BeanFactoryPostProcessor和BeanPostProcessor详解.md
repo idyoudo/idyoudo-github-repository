@@ -95,4 +95,4 @@ __Spring容器的Bean生命周期就经历了图中的生命周期，先分个�
 值得一提的是，无论是"容器级后处理器"还是"工厂级后处理器"，他们都是可以配置多个的(如，配置两个BeanPostProcessor)，如果想控制他们的调用顺序，实现一个org.springframework.core.Ordered接口即可。当然了，一般不用，一般一类后处理器只有一个即可。
 
 ### 附：文章参考
-- https://github.com/TFdream/blog/wiki/Spring-BeanFactoryPostProcessor%E5%92%8CBeanPostProcessor%E8%AF%A6%E8%A7%A3
+- [Spring BeanFactoryPostProcessor和BeanPostProcessor详解](https://github.com/TFdream/blog/wiki/Spring-BeanFactoryPostProcessor%E5%92%8CBeanPostProcessor%E8%AF%A6%E8%A7%A3)
